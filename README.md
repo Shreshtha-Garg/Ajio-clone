@@ -27,6 +27,8 @@ The Ajio-clone project is a static webpage mimicking the layout and design of th
 
 To view the Ajio-clone project on your local machine, click on the link given below :
 
+[Ajio Clone](https://shreshtha-garg.github.io/Ajio-clone/).
+
 ## Usage
 
 This project is intended for educational purposes only. Feel free to explore the code and modify it to better understand HTML and CSS.
